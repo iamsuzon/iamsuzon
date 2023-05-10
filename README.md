@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Xgenious](xgenious.com)
 
-- 🌱 I’m currently learning **React JS**
+- 🌱 I’m currently learning **Vue JS**
 
 - 👨‍💻 All of my projects are available at [devsuzon.com](devsuzon.com)
 
