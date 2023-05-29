@@ -7,11 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/devsuzon" target="blank"><img src="https://img.shields.io/twitter/follow/devsuzon?logo=twitter&style=for-the-badge" alt="devsuzon" /></a> </p>
 
-- 🔭 I’m currently working at [Xgenious](xgenious.com)
+- 🔭 I’m currently working at [Xgenious](https://xgenious.com)
 
 - 🌱 I’m currently learning **Vue JS**
 
-- 👨‍💻 All of my projects are available at [devsuzon.com](devsuzon.com)
+- 👨‍💻 All of my projects are available at [devsuzon.com](https://devsuzon.com)
 
 - 📄 Know about my experiences [devsuzon.com/cv](devsuzon.com/cv)
 
