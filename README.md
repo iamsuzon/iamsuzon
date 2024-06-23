@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working at [Xgenious](https://xgenious.com)
 
-- 🌱 I’m currently learning **Vue JS**
+- 🌱 I’m currently learning **Shopify App Development**
 
 - 👨‍💻 All of my projects are available at [devsuzon.com](https://portfolio.devsuzon.com)
 
