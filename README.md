@@ -7,13 +7,13 @@
 
 <p align="left"> <a href="https://github.com/iamsuzon" target="blank"><img src="https://img.shields.io/twitter/follow/devsuzon?logo=twitter&style=for-the-badge" alt="devsuzon" /></a> </p>
 
-- 🔭 I’m currently working at [Xgenious](https://xgenious.com)
+- 🔭 I’m currently working at [Matjar Online](https://matjar.online)
 
-- 🌱 I’m currently learning **Shopify App Development**
+- 🌱 I’m currently building success stories of **thousands of businesses**
 
-- 👨‍💻 All of my projects are available at [devsuzon.com](https://portfolio.devsuzon.com)
+- 👨‍💻 All of my projects are available at [devsuzon.com](https://devsuzon.com)
 
-- 📄 Know about my experiences [devsuzon.com](https://portfolio.devsuzon.com)
+- 📄 Know about my experiences [devsuzon.com](https://devsuzon.com)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
