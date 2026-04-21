@@ -1,32 +1,159 @@
-<h1 align="center">Hi 👋, I'm Suzon</h1>
-<h3 align="center">A passionate backend developer from Bangladesh</h3>
+<div align="center">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=iamsuzon&label=Profile%20views&color=0e75b6&style=flat" alt="iamsuzon" /> </p>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0e75b6,100:764ba2&height=200&section=header&text=Hi%20👋%20I'm%20Suzon&fontSize=55&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=Backend%20Developer%20from%20Bangladesh%20🇧🇩&descAlignY=58&descSize=18" width="100%"/>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=iamsuzon" alt="iamsuzon" /></a> </p>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=800&color=0E75B6&center=true&vCenter=true&width=600&lines=Backend+Developer+%F0%9F%92%BB;API+%26+Systems+Architect+%F0%9F%9B%A0%EF%B8%8F;Laravel+%7C+Go+%7C+PHP+Enthusiast+%E2%9A%A1;Building+success+stories+for+businesses+%F0%9F%9A%80" alt="Typing SVG" />
+</a>
 
-<p align="left"> <a href="https://github.com/iamsuzon" target="blank"><img src="https://img.shields.io/twitter/follow/devsuzon?logo=twitter&style=for-the-badge" alt="devsuzon" /></a> </p>
+<br/>
 
-- 🔭 I’m currently working at [Matjar Online](https://matjar.online)
+<img src="https://komarev.com/ghpvc/?username=iamsuzon&label=Profile%20views&color=0e75b6&style=for-the-badge" alt="profile views" />
+<a href="https://twitter.com/devsuzon"><img src="https://img.shields.io/twitter/follow/devsuzon?logo=twitter&style=for-the-badge&color=1DA1F2" alt="twitter" /></a>
+<a href="https://github.com/iamsuzon?tab=followers"><img src="https://img.shields.io/github/followers/iamsuzon?label=Followers&style=for-the-badge&color=success" alt="followers" /></a>
 
-- 🌱 I’m currently building success stories of **thousands of businesses**
+</div>
 
-- 👨‍💻 All of my projects are available at [devsuzon.com](https://devsuzon.com)
+---
 
-- 📄 Know about my experiences [devsuzon.com](https://devsuzon.com)
+## 🧑‍💻 About Me
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://twitter.com/devsuzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="devsuzon" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/mazharul-islam-suzon-12921a147" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="mazharul-islam-suzon-12921a147" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/mazharul-islam-suzon" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="mazharul-islam-suzon" height="30" width="40" /></a>
-<a href="https://fb.com/ami.sujon.bolchi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ami.sujon.bolchi" height="30" width="40" /></a>
-</p>
+```yaml
+name: Mazharul Islam Suzon
+location: Bangladesh 🇧🇩
+role: Backend Developer
+currently_working_at: Matjar Online
+currently_building: success stories of thousands of businesses
+portfolio: devsuzon.com
+ask_me_about: [backend, APIs, databases, scalable systems]
+hobbies: [coding, learning new tech, problem solving]
+fun_fact: "I debug with console.log and I'm not ashamed of it 😎"
+```
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://golang.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://laravel.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/laravel/laravel-plain-wordmark.svg" alt="laravel" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://vuejs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vuejs/vuejs-original-wordmark.svg" alt="vuejs" width="40" height="40"/> </a> <a href="https://www.adobe.com/products/xd.html" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/adobe-xd.svg" alt="xd" width="40" height="40"/> </a> </p>
+- 🔭 Currently working at **[Matjar Online](https://matjar.online)**
+- 🌱 Building **success stories** for thousands of businesses
+- 👨‍💻 All of my projects are available at **[devsuzon.com](https://devsuzon.com)**
+- 💬 Ask me about **backend development, APIs, and scalable architectures**
+- 📫 How to reach me: **[devsuzon.com](https://devsuzon.com)**
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=iamsuzon&show_icons=true&locale=en&layout=compact" alt="iamsuzon" /></p>
+---
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=iamsuzon&show_icons=true&locale=en" alt="iamsuzon" /></p>
+## 🛠️ Tech Stack & Tools
 
+### 💻 Languages
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white)
+
+### ⚙️ Backend & Frameworks
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+### 🗄️ Databases
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+### 🚀 DevOps & Tools
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Adobe XD](https://img.shields.io/badge/Adobe%20XD-470137?style=for-the-badge&logo=adobexd&logoColor=#FF61F6)
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+
+<a href="https://github.com/iamsuzon">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iamsuzon&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=iamsuzon&theme=tokyonight&hide_border=true" />
+</a>
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=iamsuzon&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" />
+
+</div>
+
+---
+
+## 🏆 GitHub Trophies
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=iamsuzon&theme=tokyonight&no-frame=true&column=7&margin-w=10" alt="trophies" />
+  </a>
+</div>
+
+---
+
+## 🐍 Contribution Graph
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/iamsuzon/iamsuzon/output/github-contribution-grid-snake-dark.svg" alt="snake gif" />
+</div>
+
+> 💡 **Tip:** To enable the snake animation, create a GitHub Action in your profile repo that generates this SVG. See [Platane/snk](https://github.com/Platane/snk) for setup.
+
+---
+
+## 📈 Activity Graph
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=iamsuzon&theme=tokyo-night&hide_border=true&area=true" alt="activity graph" />
+</div>
+
+---
+
+## 🤝 Connect With Me
+
+<div align="center">
+
+<a href="https://devsuzon.com" target="_blank">
+  <img src="https://img.shields.io/badge/Portfolio-0e75b6?style=for-the-badge&logo=googlechrome&logoColor=white" />
+</a>
+<a href="https://twitter.com/devsuzon" target="_blank">
+  <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
+</a>
+<a href="https://linkedin.com/in/mazharul-islam-suzon-12921a147" target="_blank">
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="https://stackoverflow.com/users/mazharul-islam-suzon" target="_blank">
+  <img src="https://img.shields.io/badge/Stack_Overflow-F58025?style=for-the-badge&logo=stackoverflow&logoColor=white" />
+</a>
+<a href="https://fb.com/ami.sujon.bolchi" target="_blank">
+  <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+</a>
+
+</div>
+
+---
+
+## ✍️ Random Dev Quote
+
+<div align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="dev quote" />
+</div>
+
+---
+
+<div align="center">
+
+### 💖 Thanks for visiting!
+
+⭐️ From [iamsuzon](https://github.com/iamsuzon) — *"Code. Coffee. Commit. Repeat."*
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:764ba2,100:0e75b6&height=120&section=footer" width="100%"/>
+
+</div>
